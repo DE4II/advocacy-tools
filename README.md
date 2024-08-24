@@ -28,3 +28,13 @@ As a nascent field, their exists no shared understanding about what digital equi
 The DE4II [Advocacy Tools](https://github.com/DE4II/advocacy-tools) repository provides a place for [stakeholders](https://github.com/DE4II/advocacy-tools/wiki/Stakeholders) to discover, contribute to, and make use of DE4II tools and content designed to facilitate and promote DE4II efforts.
 
 <!-- extra line -->
+<!-- readme part 3 of -->
+
+-----
+[Custodial Agencies](https://github.com/DE4II/advocacy-tools/wiki/Custodial-Agencies) only allow [incarcerated individuals](https://github.com/DE4II/advocacy-tools/wiki/Incarcerated-Individuals) access to [pre-approved](https://github.com/DE4II/advocacy-tools/wiki/Pre-Approval) [content](https://github.com/DE4II/advocacy-tools/wiki/CTS-Content), [apps](https://github.com/DE4II/advocacy-tools/wiki/CTS-Apps), and [services](https://github.com/DE4II/advocacy-tools/wiki/CTS-Services). Due to the onerous nature of the [pre-approval process](https://github.com/DE4II/advocacy-tools/wiki/CTS-Pre-Approval-Process), incarcerated individuals have access to only a small fraction of available [appropriate](https://github.com/DE4II/access-maps/wiki/Asset-Checklist) content and very few apps and services.
+-----
+### Asset Maps Repository
+
+The DE4II [Asset Maps](https://github.com/DE4II/asset-maps) repository provides a place for stakeholders to discover, contribute to, and make use of [curated](https://github.com/DE4II/asset-maps/wiki/Asset-Curation) lists of [reviewed](https://github.com/DE4II/asset-maps/wiki/Asset-Review) [assets](https://github.com/DE4II/asset-maps/wiki/Asset-Types) designed to accelerate and facilitate the pre-approval and delivery of assets to incarcerated individuals.
+
+<!-- extra line -->
