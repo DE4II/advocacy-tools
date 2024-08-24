@@ -1,4 +1,4 @@
-<!-- EDIT README TEXT REPLACE EXISTING
+#<!-- EDIT README TEXT REPLACE EXISTING
 part 1 of ?
 https://github.com/DE4II/advocacy-tools
 -->
@@ -36,5 +36,23 @@ The DE4II [Advocacy Tools](https://github.com/DE4II/advocacy-tools) repository p
 ### Asset Maps Repository
 
 The DE4II [Asset Maps](https://github.com/DE4II/asset-maps) repository provides a place for stakeholders to discover, contribute to, and make use of [curated](https://github.com/DE4II/asset-maps/wiki/Asset-Curation) lists of [reviewed](https://github.com/DE4II/asset-maps/wiki/Asset-Review) [assets](https://github.com/DE4II/asset-maps/wiki/Asset-Types) designed to accelerate and facilitate the pre-approval and delivery of assets to incarcerated individuals.
+
+<!-- extra line -->
+<!-- readme part 4 of -->
+
+-----
+Not all [potentially beneficial](https://github.com/DE4II/asset-maps/wiki/Justifiable-Assets) assets are appropriate for delivery to incarcerated individuals in their current form. Assets may need to be adapted to overcome [technical](https://github.com/DE4II/asset-maps/wiki/Reasonably-Consumable-Assets), [security](https://github.com/DE4II/asset-maps/wiki/Secure-Assets), or [licensing](https://github.com/DE4II/asset-maps/wiki/Distributable-Assets) concerns. Other assets may be more effective if adapted to present content in a manner that is more understandable in a custodial context. Finally, some potentially beneficial assets simply do not yet exist.
+-----
+### apps4inmates Repository
+
+The DE4II [apps4inmates](https://github.com/DE4II/apps4inmates) repository provides a place for stakeholders and developers to adapt [existing Android applications](https://github.com/DE4II/apps4inmates/wiki/Apps-to-Adapt) to the custodial context or to design, develop, and implement [new Android apps](https://github.com/DE4II/apps4inmates/wiki/Apps-to-Design) that are [uniquely beneficial](https://github.com/DE4II/apps4inmates/wiki/App-Benefits) to incarcerated individuals.
+
+### oer4inmates Repository
+
+The DE4II [oer4inmates](https://github.com/DE4II/oer4inmates) repository provides a place for stakeholders, content creators, and publishers to adapt [existing open content](https://github.com/DE4II/oer4inmates/wiki/Content-to-Adapt) to the custodial context or to design and develop [new open content](https://github.com/DE4II/oer4inmates/wiki/Content-to-Design) that are [uniquely beneficial](https://github.com/DE4II/oer4inmates/wiki/Content-Benefits) to incarcerated individuals.
+
+### Dev Tools Repository
+
+The DE4II [Dev Tools](https://github.com/DE4II/dev-tools) repository provides a place for developers to design, develop, and implement tools for managing and utilizing asset maps and other DE4II tools.
 
 <!-- extra line -->
