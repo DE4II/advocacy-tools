@@ -56,3 +56,27 @@ The DE4II [oer4inmates](https://github.com/DE4II/oer4inmates) repository provide
 The DE4II [Dev Tools](https://github.com/DE4II/dev-tools) repository provides a place for developers to design, develop, and implement tools for managing and utilizing asset maps and other DE4II tools.
 
 <!-- extra line -->
+<!-- readme part 5 of 5
+https://github.com/DE4II/advocacy-tools
+-->
+
+[DE4II Basics](https://github.com/DE4II/advocacy-tools/wiki/DE4II-Basics/) 
+| [DE4II in California](https://github.com/DE4II/advocacy-tools/wiki/DE4II-California/) 
+| [DE4II in CDCR](https://github.com/DE4II/advocacy-tools/wiki/DE4II-CDCR/) 
+| [CDCR CTS](https://github.com/DE4II/advocacy-tools/wiki/CDCR-CTS/) 
+| [DE4II Strategies](https://github.com/DE4II/advocacy-tools/wiki/DE4II-HowTo/)
+
+<!-- extra line -->
+
+-----
+
+<!-- extra line -->
+
+[DE4II](https://github.com/DE4II/) -> [advocacy tools](https://github.com/DE4II/advocacy-tools/) -> [wiki](https://github.com/DE4II/advocacy-tools/wiki/) | [issues](https://github.com/DE4II/advocacy-tools/issues/)
+
+<!-- extra line -->
+
+[asset maps](https://github.com/DE4II/asset-maps/) | [apps4inmates](https://github.com/DE4II/apps4inmates/) | [oer4inmates](https://github.com/DE4II/oer4inmates/) | [dev tools](https://github.com/DE4II/dev-tools/)
+
+-----
+*(c)2024 DE4II CC-BY-SA*
