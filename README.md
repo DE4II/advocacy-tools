@@ -15,3 +15,16 @@ Our mission is to contribute to the success of currently and formerly incarcerat
 
 
 <!-- extra line -->
+<!-- readme part 2 of -->
+
+## Our repositories
+
+Digital Equity for Incarcerated Individuals (DE4II) is an undeveloped subfield of [digital equity](https://github.com/DE4II/advocacy-tools/wiki/Digital-Equity) focused on overcoming the [unique barriers](https://github.com/DE4II/advocacy-tools/wiki/Unique-Barriers) to advancing the [goals of digital equity](https://github.com/DE4II/advocacy-tools/wiki/Goals-of-Digital-Equity) in a [custodial context](https://github.com/DE4II/advocacy-tools/wiki/Custodial-Context).
+
+As a nascent field, their exists no shared understanding about what digital equity means in a custodial context, no shared vocabulary for discussing DE4II issues, no tools or best practices for evaluating the lack of digital equity in a custodial context or for designing, developing, or implementing digital equity programs for incarcerated individuals, and no roadmap to guide or inform DE4II efforts.
+
+### Advocacy Tools Repository
+
+The DE4II [Advocacy Tools](https://github.com/DE4II/advocacy-tools) repository provides a place for [stakeholders](https://github.com/DE4II/advocacy-tools/wiki/Stakeholders) to discover, contribute to, and make use of DE4II tools and content designed to facilitate and promote DE4II efforts.
+
+<!-- extra line -->
